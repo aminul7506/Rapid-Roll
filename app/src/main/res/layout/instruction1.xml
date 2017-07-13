@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:gravity="center"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary">
+
+        <TextView
+            android:text="There are some blue color life savings rectangles to save the circle from dropping down. The red color rectangles are your enemies and if the circle touches the red one then your life will be decreased. You will get a bonus life if you cross every 1k score. Additionally the speed of your game will increase gradually.When there will be a fluctuation in the game screen then you will reach a new level and the circle will be set at the initial position."
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="@dimen/activity_vertical_margin"
+            android:textSize="@dimen/activity_horizontal_margin"
+            android:id="@+id/textView7" />
+    </LinearLayout>
+</LinearLayout>
