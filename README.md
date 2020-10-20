@@ -10,4 +10,4 @@ Get it on Amzon App Store : https://www.amazon.com/Sojal-Rapid-Roll/dp/B01M9HQHP
 
 ![High Scroes](https://github.com/aminul7506/Rapid-Roll/blob/master/RapidRoll2.png?raw=true "High Scores")
 
-![Themes](https://github.com/aminul7506/Rapid-Roll/blob/master/RapidRoll1.png.png?raw=true "Themes")
+![Themes](https://github.com/aminul7506/Rapid-Roll/blob/master/RapidRoll1.png?raw=true "Themes")
